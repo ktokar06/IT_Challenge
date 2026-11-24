@@ -1,0 +1,13 @@
+"""Тексты сообщений об ошибках."""
+
+EMPTY_FILE = "Файл пустой"
+NO_DATA = "В файле нет данных"
+COLUMN_NOT_FOUND = "Столбец '{column}' не найден"
+INVALID_VALUE = "Некорректное значение '{value}' в столбце '{column}'"
+INVALID_ENCODING = "Файл должен быть в кодировке UTF-8"
+CALCULATION_FAILED = "Сбой расчета статистики"
+TASK_NOT_FOUND = "Задание {task_id} не найдено"
+INTERNAL_ERROR = "Внутренняя ошибка сервера"
+VALIDATION_ERROR = "Некорректный запрос: {details}"
+FIELD_REQUIRED = "не передано поле '{field}'"
+FIELD_INVALID = "некорректное значение поля '{field}'"

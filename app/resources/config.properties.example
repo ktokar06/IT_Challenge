@@ -1,0 +1,13 @@
+# Database
+db.host=localhost
+db.port=5437
+db.name=db_challenge
+db.user=postgres
+db.password=your_password
+
+# Server
+server.port=8001
+
+# Logging
+log.file=app/resources/logs/app.log
+log.level=INFO
